@@ -21,7 +21,7 @@ I am self-taught in software. I use agents heavily. That is not a claim that gen
   <img src="./assets/learning-loop.svg" alt="Learning loop from media systems to Linux desktop, electromechanics, local AI, and user-owned automation." width="100%">
 </p>
 
-The main idea I am pursuing is GNU.IN OS: an experimental local-first desktop runtime direction for Linux/Hyprland, shell surfaces, local context, and bounded agentic automation.
+The main idea I am pursuing is GNU.IN OS: an experimental local-first desktop runtime for Linux/Hyprland, covering shell surfaces, local context, and bounded agentic automation.
 
 It is not a finished product yet. It is a research-product: useful to me now, serious enough to deserve engineering discipline, and still early enough that public claims need to be careful.
 
