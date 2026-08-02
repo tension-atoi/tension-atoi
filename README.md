@@ -1,12 +1,26 @@
+# Salut, je suis tension-atoi 👋
+
+Bienvenue sur mon profil GitHub — je découvre, j'apprends et je construis petit à petit.
+
+- 🔭 Actuellement : exploration de projets open‑source et apprentissage continu
+- 🌱 J'apprends : Python, TypeScript, bonnes pratiques CI/CD
+- 💬 Discuter de : automatisation, développement web, DevOps
+- 📫 Contact : via GitHub (https://github.com/tension-atoi)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tension-atoi&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tension-atoi&show_icons=true)
+
 <p align="center">
   <img src="./assets/profile-hero.svg" alt="tension-atoi: local-first systems, interaction, automation, self-taught and learning in public." width="100%">
 </p>
 
 # Hi, I am tension-atoi
 
-I am building my way into systems work from a messy but useful intersection: communication, digital media, videogames, AI, platform criticism, Linux desktops, and now electromechanics for automated systems.
+I am building my way into systems work from a messy but useful intersection: communication, digital media, videogames, AI, platform criticism, Linux desktops, and now electromechanics for automated[...]
 
-I am self-taught in software. I use agents heavily. That is not a claim that generated code is automatically good. It is a commitment to turn exploration into things that can be inspected, corrected, tested, documented, and owned.
+I am self-taught in software. I use agents heavily. That is not a claim that generated code is automatically good. It is a commitment to turn exploration into things that can be inspected, correcte[...]
 
 ## What I Care About
 
