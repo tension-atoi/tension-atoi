@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="tension-atoi — local-first systems, native interfaces, AI infrastructure, and user-owned computing." width="100%">
+  <img src="./assets/profile-hero.webp" alt="tension-atoi — local-first systems, native interfaces, AI infrastructure, and user-owned computing." width="100%">
 </p>
 
 # tension-atoi
